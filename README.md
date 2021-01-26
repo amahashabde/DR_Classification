@@ -9,4 +9,4 @@ Paper available at https://drive.google.com/file/d/1nl5tYA2jJ1Up_malA8uQmvwHu6UH
 Automated classification of DR severity can help streamlie the treatment process such that patients with higher severity are seen by the doctor first followed by the less severe patiets. This problem of DR clasification is significant since retinal images are biometrics (unique for each individual) which makes generalized modeling difficult and since 90% of the diabetic population that get imaged each year are have NO DR.
 Thus, the primary task is to automatically screen the patients that have NO DR (y=0), vs ones with mild DR (y=1), moderate DR (y=2) and severe DR (y=4). 
 
-![Diabetic retinopathy examples](example_images/dr-images.png)
+![Diabetic retinopathy examples](example_images/dr-images.PNG)
