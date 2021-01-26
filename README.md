@@ -10,3 +10,8 @@ Automated classification of DR severity can help streamlie the treatment process
 Thus, the primary task is to automatically screen the patients that have NO DR (y=0), vs ones with mild DR (y=1), moderate DR (y=2) and severe DR (y=4). 
 
 ![Diabetic retinopathy examples](example_images/dr-images.PNG)
+
+## Approach
+Uses an Alexnet model trained on the retinal set of images
+
+
